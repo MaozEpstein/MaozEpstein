@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 <h3 align="center">Electrical Engineering & Physics Student | VLSI & CPU Architecture Enthusiast</h3>
 
 <br>
@@ -21,9 +20,9 @@ I'm a 3rd-year **B.Sc. student in Electrical Engineering & Applied Physics** at 
 
 ## :mortar_board: About Me
 
-- **Currently studying** Electrical Engineering & Applied Physics at the **Hebrew University of Jerusalem** (GPA: 85.2)
+- **Currently studying** Electrical Engineering & Applied Physics at the **Hebrew University of Jerusalem**
 - **Tutor** for Computer Architecture courses
-- **Former Field Intelligence Officer** in the IDF (2018–2023) — awarded Outstanding Intelligence Officer of the Command (2022)
+- **Former Field Intelligence Officer** in the IDF (2018–2023)
 - **Looking for** a Hardware Engineering role to design next-generation silicon
 
 ---
@@ -69,15 +68,8 @@ I'm a 3rd-year **B.Sc. student in Electrical Engineering & Applied Physics** at 
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" height="40"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="40"/>
-</p>
-
----
-
-## :bar_chart: GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maozep&show_icons=true&theme=tokyonight&hide_border=true" alt="Maoz's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maozep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" height="40"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" height="40"/>
 </p>
 
 ---
