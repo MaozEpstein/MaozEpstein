@@ -31,6 +31,7 @@ I'm a 3rd-year **B.Sc. student in Electrical Engineering & Applied Physics** at 
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Circuit Designer**](https://github.com/MaozEpstein/Circuit-Designer) | Browser-based digital design suite — schematic editor, cycle-accurate DAG simulator, 40+ gate-level components, 16-bit CPU with 5-stage pipeline, custom assembler, VCD waveform viewer & CDC checker | JavaScript, HTML, CSS |
 | [**RTL CPU Design**](https://github.com/maozep/CPU) | 8-bit CPU core — ALU, Register File & Control Unit, validated cycle-accurately against C++/Python simulators | Verilog, C++, Python |
 | [**Snake Game SoC**](https://github.com/maozep/Snake---game) | Full SoC on FPGA Tang Nano 9K with VGA controller, Keypad Scanner & LFSR-based RNG | Verilog, FPGA |
 | [**AND GAME**](https://github.com/maozep/AND_GAME) | 60-level circuit puzzle game with logic gates, flip-flops, real-time DAG simulator & drag-and-drop UI | JavaScript, HTML, CSS |
