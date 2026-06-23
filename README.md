@@ -35,8 +35,8 @@ I'm a 3rd-year **B.Sc. student in Electrical Engineering & Applied Physics** at 
 | [**RTL CPU Design**](https://github.com/maozep/CPU) | 8-bit CPU core — ALU, Register File & Control Unit, validated cycle-accurately against C++/Python simulators | Verilog, C++, Python |
 | [**Snake Game SoC**](https://github.com/maozep/Snake---game) | Full SoC on FPGA Tang Nano 9K with VGA controller, Keypad Scanner & LFSR-based RNG | Verilog, FPGA |
 | [**AND GAME**](https://github.com/maozep/AND_GAME) | 60-level circuit puzzle game with logic gates, flip-flops, real-time DAG simulator & drag-and-drop UI · [**Live Demo**](https://maozepstein.github.io/AND_GAME/) | JavaScript, HTML, CSS |
-| [**Qsimulator**](https://github.com/maozep) | Interactive web app demonstrating adiabatic quantum computing on neutral-atom arrays (QuEra Aquila) for MANET routing — full 8-stage pipeline (routing → max-clique → MIS via Rydberg blockade) with live QuTiP evolution over WebSocket & AWS Braket bridge | Python, TypeScript |
-| [**Engineering in Your Eyes**](https://github.com/maozep) | Interactive visual teaching platform for university STEM courses — frame-engine architecture, multiple viewing modes & RTL (Hebrew) support, hosting Algorithms, Semiconductors & Statistical Methods courses · [**Live Demo**](https://algo-fawn.vercel.app/) | TypeScript |
+| [**Qsimulator**](https://github.com/MaozEpstein/QMANET-Simulator) | Interactive web app that solves wireless-network (MANET) routing with quantum computing on neutral-atom hardware (QuEra Aquila) — visualizing the full pipeline from network graph to live quantum simulation | Python, TypeScript |
+| [**Engineering in Your Eyes**](https://github.com/MaozEpstein/algo) | Interactive visual teaching platform for university STEM courses — frame-engine architecture, multiple viewing modes & RTL (Hebrew) support, hosting Algorithms, Semiconductors & Statistical Methods courses · [**Live Demo**](https://algo-fawn.vercel.app/) | TypeScript |
 
 ---
 
