@@ -30,13 +30,13 @@ I'm a 3rd-year **B.Sc. student in Electrical Engineering & Applied Physics** at 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Qsimulator**](https://github.com/maozep) | Interactive web app demonstrating adiabatic quantum computing on neutral-atom arrays (QuEra Aquila) for MANET routing — full 8-stage pipeline (routing → max-clique → MIS via Rydberg blockade) with live QuTiP evolution over WebSocket & AWS Braket bridge | Python, FastAPI, QuTiP, Bloqade, React, TypeScript, D3, Three.js |
-| [**HW-Accelerated DNA Matching**](https://github.com/maozep) | Custom hardware accelerator on a RISC-V (VeeR EL2) core / Nexys A7 FPGA that decodes & compares DNA bases in parallel over a Wishbone bus — ~535× speedup vs. software-only | RISC-V, SystemVerilog, Wishbone, FPGA, C |
-| [**Engineering in Your Eyes**](https://github.com/maozep) | Interactive visual teaching platform for university STEM courses — frame-engine architecture, multiple viewing modes & RTL (Hebrew) support, hosting Algorithms, Semiconductors & Statistical Methods courses | TypeScript, React |
-| [**Circuit Designer**](https://github.com/MaozEpstein/Circuit-Designer) | Browser-based digital design suite — schematic editor, cycle-accurate DAG simulator, 40+ gate-level components, 16-bit CPU with 5-stage pipeline, custom assembler, VCD waveform viewer & CDC checker | JavaScript, HTML, CSS |
+| [**Circuit Designer**](https://github.com/MaozEpstein/Circuit-Designer) | Browser-based digital design suite — schematic editor, cycle-accurate DAG simulator, 40+ gate-level components, 16-bit CPU with 5-stage pipeline, custom assembler, VCD waveform viewer & CDC checker · [**Live Demo**](https://circuit-designer-three.vercel.app/app.html) | JavaScript, HTML, CSS |
+| [**HW-Accelerated DNA Matching**](https://github.com/maozep) | Custom hardware accelerator on a RISC-V (VeeR EL2) core / Nexys A7 FPGA that decodes & compares DNA bases in parallel over a Wishbone bus — ~535× speedup vs. software-only | SystemVerilog, C |
 | [**RTL CPU Design**](https://github.com/maozep/CPU) | 8-bit CPU core — ALU, Register File & Control Unit, validated cycle-accurately against C++/Python simulators | Verilog, C++, Python |
 | [**Snake Game SoC**](https://github.com/maozep/Snake---game) | Full SoC on FPGA Tang Nano 9K with VGA controller, Keypad Scanner & LFSR-based RNG | Verilog, FPGA |
-| [**AND GAME**](https://github.com/maozep/AND_GAME) | 60-level circuit puzzle game with logic gates, flip-flops, real-time DAG simulator & drag-and-drop UI | JavaScript, HTML, CSS |
+| [**AND GAME**](https://github.com/maozep/AND_GAME) | 60-level circuit puzzle game with logic gates, flip-flops, real-time DAG simulator & drag-and-drop UI · [**Live Demo**](https://maozepstein.github.io/AND_GAME/) | JavaScript, HTML, CSS |
+| [**Qsimulator**](https://github.com/maozep) | Interactive web app demonstrating adiabatic quantum computing on neutral-atom arrays (QuEra Aquila) for MANET routing — full 8-stage pipeline (routing → max-clique → MIS via Rydberg blockade) with live QuTiP evolution over WebSocket & AWS Braket bridge | Python, TypeScript |
+| [**Engineering in Your Eyes**](https://github.com/maozep) | Interactive visual teaching platform for university STEM courses — frame-engine architecture, multiple viewing modes & RTL (Hebrew) support, hosting Algorithms, Semiconductors & Statistical Methods courses · [**Live Demo**](https://algo-fawn.vercel.app/) | TypeScript |
 
 ---
 
